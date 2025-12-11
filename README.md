@@ -1,6 +1,6 @@
 #Student Record Management System (SRMS)
 
-This project is part of our course assignment.  
+This project is part of the IT214 course.
 We developed a program called **Student Record Management System (SRMS)**.  
 It manages student records by allowing saving, updating, deleting, searching, and generating reports.
 
