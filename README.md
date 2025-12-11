@@ -15,6 +15,19 @@ It manages student records by allowing saving, updating, deleting, searching, an
 - **DepartmentReport**: generates report for students by department.
 - **SRMS**: the main class with "main()" to run the system.
 
+
+##  Features
+- Add student  
+- Delete student  
+- Update student information  
+- Search by ID  
+- Save records to file  
+- Load records from file  
+- Auto-save using Multithreading  
+- Generate GPA report  
+- Generate Department report  
+
+
 #How to run
 1. Open the project in NetBeans.
 2. Run the file "SRMS.java".
@@ -25,8 +38,9 @@ It manages student records by allowing saving, updating, deleting, searching, an
 We created a UML diagram using PlantUML.  
 It shows all classes, attributes, methods, and the relations (inheritance, composition, aggregation, usage).
 
-<img width="500" height="400" alt="SRMS_uml" src="https://github.com/user-attachments/assets/ed9d72fb-09e1-411c-aa00-ec19e73dbc28" />
+<img width="400" height="300" alt="SRMS_uml" src="https://github.com/user-attachments/assets/ed9d72fb-09e1-411c-aa00-ec19e73dbc28" />
 
 #Team members:
 -Alaa Raslan.
+
 -Lubabah Majeed.
