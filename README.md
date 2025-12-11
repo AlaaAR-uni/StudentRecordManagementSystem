@@ -32,7 +32,6 @@ It manages student records by allowing saving, updating, deleting, searching, an
 1. Open the project in NetBeans.
 2. Run the file "SRMS.java".
 3. The menu will appear and you can add, delete, search, or update students.
-4. You can also generate GPA report or Department report.
 
 ## UML Diagram
 
