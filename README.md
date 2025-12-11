@@ -25,6 +25,8 @@ It manages student records by allowing saving, updating, deleting, searching, an
 We created a UML diagram using PlantUML.  
 It shows all classes, attributes, methods, and the relations (inheritance, composition, aggregation, usage).
 
-<img width="614" height="470" alt="SRMS_uml" src="https://github.com/user-attachments/assets/ed9d72fb-09e1-411c-aa00-ec19e73dbc28" />
+<img width="500" height="400" alt="SRMS_uml" src="https://github.com/user-attachments/assets/ed9d72fb-09e1-411c-aa00-ec19e73dbc28" />
 
-
+#Team members:
+-Alaa Raslan.
+-Lubabah Majeed.
