@@ -1,4 +1,4 @@
---Student Record Management System (SRMS)
+#Student Record Management System (SRMS)
 
 This project is part of our course assignment.  
 We developed a program called **Student Record Management System (SRMS)**.  
@@ -15,12 +15,12 @@ It manages student records by allowing saving, updating, deleting, searching, an
 - **DepartmentReport**: generates report for students by department.
 - **SRMS**: the main class with "main()" to run the system.
 
---How to run
+#How to run
 1. Open the project in NetBeans.
 2. Run the file "SRMS.java".
 3. The menu will appear and you can add, delete, search, or update students.
 4. You can also generate GPA report or Department report.
 
---UML Diagram
+#UML Diagram
 We created a UML diagram using PlantUML.  
 It shows all classes, attributes, methods, and the relations (inheritance, composition, aggregation, usage).
