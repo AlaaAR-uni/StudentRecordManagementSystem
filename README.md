@@ -4,7 +4,7 @@ This project is part of our course assignment.
 We developed a program called **Student Record Management System (SRMS)**.  
 It manages student records by allowing saving, updating, deleting, searching, and generating reports.
 
--- Classes in the project
+#Classes in the project
 - **Student**: keeps student id, name, age, GPA, level, and department.
 - **Person**: contains personal information such as name, age, and nationality.
 - **Department**: represents department number and name.
