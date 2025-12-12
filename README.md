@@ -32,6 +32,7 @@ It manages student records by allowing saving, updating, deleting, searching, an
 1. Open the project in NetBeans.
 2. Run the file "SRMS.java".
 3. The menu will appear and you can add, delete, search, or update students.
+4. the added student will be saved as students.txt flie.
 
 ## UML Diagram
 
