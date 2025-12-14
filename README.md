@@ -34,6 +34,15 @@ It manages student records by allowing saving, updating, deleting, searching, an
 3. The menu will appear and you can add, delete, search, or update students.
 4. the added student will be saved as students.txt flie.
 
+
+## Instruction for Compiling, Running, and Testing from the Command Line
+- Navigate to the project directory
+- Compile the program javac SRMS\SRMS.java
+- Run the program java SRMS.SRMS
+- Testing the program
+- After running, the main menu will appear.
+
+
 ## UML Diagram
 
 We created a UML diagram using PlantUML.  
